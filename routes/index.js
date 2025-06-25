@@ -78,4 +78,5 @@ function controllerRouting(app) {
   });
 }
 
-export default controllerRouting;
+module.exports = controllerRouting;
+
